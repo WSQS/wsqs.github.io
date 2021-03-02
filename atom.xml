@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wsqs.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-01T01:28:30.173Z</updated>
+    <updated>2021-03-02T07:56:49.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wsqs.github.io"/>
     <link rel="self" href="https://wsqs.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://wsqs.github.io/images/avatar.png</logo>
     <icon>https://wsqs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[电子书查找方法]]></title>
+        <id>https://wsqs.github.io/post/dian-zi-shu-cha-zhao-fang-fa/</id>
+        <link href="https://wsqs.github.io/post/dian-zi-shu-cha-zhao-fang-fa/">
+        </link>
+        <updated>2021-03-02T07:41:40.000Z</updated>
+        <content type="html"><![CDATA[<p>说明一点，很多网站都提供免费合法的电子书下载，大多为公共版权。</p>
+<p>首先推荐一个搜索工具：鸠摩搜书，大部分书籍都能搜到，最新出版的肯定是不行的，建议收藏。</p>
+<p>以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。</p>
+<p>Library Genesis ：这个很多人应该都知道，只要是外文书籍基本上都可以搜到并下载，电子书较高；</p>
+<p>ePUBee 书库：号称最大的电子书库，对外开放，免费使用；</p>
+<p>图灵社区：kindle书籍；</p>
+<p>书格：最好的古籍站点；</p>
+<p>ManyBooks：收集了超过32000免费电子书；</p>
+<p>BookSC：收录了339万本书籍及5242万个文献；</p>
+<p>MetPublications：下载艺术、历史类书籍；</p>
+<p>Forgotten Books：拥有1039665册书籍；</p>
+<p>Project Gutenberg：收集超过57000本免费电子书；</p>
+<p>PDF Drive：下载原版pdf书籍的网站；</p>
+<p>台大图书馆：目前有245088本书籍；</p>
+<p>SaltTiger：计算机类电子书，提供Mobi、PDF、Epub格式下载；</p>
+<p>Springe：部分带“Download”字样的书籍可免费下载，PDF格式；</p>
+<p>Digilibraries：超过20000本电子书；</p>
+<p>FreeBooks4Doctors：拥有369册医学电子书；</p>
+<p>Online Books由宾夕法尼亚大学图书馆托管，目前有200多万本免费书籍，并且在不断更新，无需注册，可直接下载</p>
+<p>*另外telegram上有不少的公共书资源。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wsqs.github.io/post/hello-gridea/</id>
